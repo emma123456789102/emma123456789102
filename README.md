@@ -1,6 +1,9 @@
 ## Hi there my name is Emma Davidson👋
+<div>
+  height="300" width="600"  align="center" src="https://github.com/emma123456789102/emma123456789102/blob/main/imageforgithub1.jpeg"> 
+</div>
 
-
+## About me:
 
 **- 🔭 I’m currently working on finishing my masters </br>
 - 🌱 I’m currently learning ... R and Java intermediate (data wrangaling 
