@@ -9,8 +9,8 @@
 - 🌱 I’m currently learning ... R and Java intermediate (data wrangaling)</br>
 - 👯 I’m looking to collaborate on ...</br>
 - 🤔 I’m looking for help with ...</br>
-- 💬 Ask me about ...</br>
-- 📫 How to reach me: ...</br>
+- 💬 Ask me about Machine learning projects (a nerd for machine learning)</br>
+- 📫 How to reach me: EMAIL ME</br>
 - 😄 Pronouns: she/her</br>
 - ⚡ Fun fact: pumpkins where orignally purple like carrots !!!
 
