@@ -4,16 +4,17 @@
 </div>
 
 ## About me:
-
+- 🎃 i absoloutely love halloween </br>
 - 🔭 I’m currently working on finishing my masters </br>
 - 🌱 I’m currently learning ... R and Java intermediate (data wrangaling)</br>
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...**
+- 👯 I’m looking to collaborate on ...</br>
+- 🤔 I’m looking for help with ...</br>
+- 💬 Ask me about ...</br>
+- 📫 How to reach me: ...</br>
+- 😄 Pronouns: she/her</br>
+- ⚡ Fun fact: pumpkins where orignally purple like carrots !!!
 
+ <img height="800" width="600"  align="center" src="https://github.com/emma123456789102/emma123456789102/blob/main/image1%20github.jpg"> 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/emma-davidson-9a97432b6) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Emma Davidson) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:davidsone381@gmail.com) 
