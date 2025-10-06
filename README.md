@@ -1,6 +1,6 @@
 ## Hi there my name is Emma Davidson👋
 <div>
-  height="300" width="600"  align="center" src="image3 for github.jpg"> 
+  height="300" width="600"  align="center" src="https://github.com/emma123456789102/emma123456789102/blob/main/image3%20for%20github.jpg"> 
 </div>
 
 ## About me:
