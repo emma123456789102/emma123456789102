@@ -5,7 +5,7 @@
 
 ## About me:
 
-**- 🔭 I’m currently working on finishing my masters </br>
+- 🔭 I’m currently working on finishing my masters </br>
 - 🌱 I’m currently learning ... R and Java intermediate (data wrangaling)</br>
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
